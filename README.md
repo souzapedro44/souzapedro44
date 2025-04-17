@@ -1,16 +1,33 @@
-## Hi there 👋
+<h1 align="center">Olá, eu sou o Pedro Castilho 👋</h1>
 
-<!--
-**souzapedro44/souzapedro44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Estudante de Engenharia de Software | Entusiasta de Desenvolvimento Web e Mobile | Curioso por Tecnologia 💻📱
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Sobre mim
+
+- 🎓 Estudando **Engenharia de Software** na Unicesumar
+- 💡 Interessado em IA, Desenvolvimeto Web e Mobile
+- 💼 Buscando atingir um perfil cada vez mais profissional!
+- 🧠 Aprendizado Rápido
+
+
+### 📫 Como me encontrar:
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/pedro-castilho-11982a35a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)  
+- 📷 Instagram: @p.castilhou  
+- 📧 E-mail: phcastilhodev@gmail.com 
+
+---
+
+### 🎯 Frase que me inspira:
+
+> "O sucesso é a soma de pequenos esforços repetidos dia após dia." — Robert Collier
+
+---
+
+<p align="center">
+  Obrigado por visitar meu perfil! ⭐
+</p>
