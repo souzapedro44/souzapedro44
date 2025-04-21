@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Pedro Castilho 👋</h1>
 
 <p align="center">
-  Estudante de Engenharia de Software | Entusiasta de Desenvolvimento Web e Mobile | Curioso por Tecnologia 💻📱
+  Estudante de Engenharia de Software | Curioso por Tecnologia 💻📱
 </p>
 
 ---
