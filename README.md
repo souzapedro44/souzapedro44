@@ -9,7 +9,7 @@
 ### 🚀 Sobre mim
 
 - 🎓 Estudando **Engenharia de Software** na Unicesumar
-- 💡 Interessado em IA, Desenvolvimeto Web e Mobile
+- 💡 Interessado em IA e Gestão de Projetos!
 - 💼 Buscando atingir um perfil cada vez mais profissional!
 - 🧠 Aprendizado Rápido
 
