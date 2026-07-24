@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Pedro Castilho 👋</h1>
 
 <p align="center">
-  Estudante de Engenharia de Software | Curioso por Tecnologia 💻📱
+  🚀 Interessado em Product Management, Product Owner e Automação de Processos
 </p>
 
 ---
@@ -9,9 +9,9 @@
 ### 🚀 Sobre mim
 
 - 🎓 Estudando **Engenharia de Software** na Unicesumar
-- 💡 Interessado em IA e Gestão de Projetos!
-- 💼 Buscando atingir um perfil cada vez mais profissional!
-- 🧠 Aprendizado Rápido
+- 📊 Estudando Scrum, Kanban, Jira e BPMN
+- 🤖 Desenvolvendo projetos com IA aplicada à automação
+- 📚 Aprendizado contínuo e foco em resolução de problemas
 
 
 ### 📫 Como me encontrar:
