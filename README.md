@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Pedro Castilho 👋</h1>
 
 <p align="center">
-  🚀 Interessado em Product Management, Product Owner e Automação de Processos
+  🚀 Interessado em Desenvolvimento e Gestão de Projetos
 </p>
 
 ---
