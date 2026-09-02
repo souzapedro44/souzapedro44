@@ -9,7 +9,7 @@
 ### 🚀 Sobre mim
 
 - 🎓 Estudando **Engenharia de Software** na Unicesumar
-- 📊 Estudando Scrum, Kanban, Jira e BPMN
+- 📊 Estudando Metodologias Ágeis e JAVA POO
 - 🤖 Desenvolvendo projetos com IA aplicada à automação
 - 📚 Aprendizado contínuo e foco em resolução de problemas
 
