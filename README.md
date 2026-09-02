@@ -10,7 +10,6 @@
 
 - 🎓 Estudando **Engenharia de Software** na Unicesumar
 - 📊 Estudando Metodologias Ágeis e JAVA POO
-- 🤖 Desenvolvendo projetos com IA aplicada à automação
 - 📚 Aprendizado contínuo e foco em resolução de problemas
 
 
